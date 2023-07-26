@@ -23,7 +23,7 @@
   <img src='https://www.svgrepo.com/show/353498/bootstrap.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/374146/typescript-official.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/452075/node-js.svg' widht='40' height='40'/>
-  <img src='https://www.svgrepo.com/show/353724/express.svg' widht='40' height='40'/>
+  <img src='https://www.svgrepo.com/show/353724/express.svg' widht='40' height='40' color='red'/>
   
 </div>
 
