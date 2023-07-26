@@ -27,6 +27,7 @@
   <img src='https://www.svgrepo.com/show/374146/typescript-official.svg' widht='40' height='40' title='TypeScript' alt='TypeScript'/>
   <img src='https://www.svgrepo.com/show/303360/nodejs-logo.svg' widht='40' height='40' title='Node' alt='Node'/>
   <img src='https://www.mementotech.in/assets/images/icons/express.png' widht='40' height='40' title='Express' alt='Express'/>
+  <img src='https://www.svgrepo.com/show/354333/sequelize.svg' widht='40' height='40' title='Sequelize' alt='Sequelize'/>
   <img src='https://www.svgrepo.com/show/452210/git.svg' widht='40' height='40' title='Git' alt='Git'/>
   
 </div>
