@@ -12,6 +12,7 @@
 <p align='center'>Actualmente, estoy enfocado en mejorar y perfeccionar mis habilidades. Estoy buscando oportunidades para participar en proyectos interesantes que me permitan seguir creciendo profesionalmente y expandir mis conocimientos.</p>
 
 <a href="https://www.linkedin.com/in/alexander-emanuel-bris-313655266/" target="_blank">
+  Me LinkedIn
   <img src='https://www.svgrepo.com/show/355096/linkedin.svg' widht='40' height='40' alt='LinkedIn'/>
 </a>
 
