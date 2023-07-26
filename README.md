@@ -23,7 +23,7 @@
   <img src='https://www.svgrepo.com/show/353498/bootstrap.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/374146/typescript-official.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/452075/node-js.svg' widht='40' height='40'/>
-  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXwkfc23PluXFuvDw_j4Mkda9oTH6MLkBsA&usqp=CAU' widht='40' height='40'/>
+  <img src='https://www.mementotech.in/assets/images/icons/express.png' widht='40' height='40'/>
   
 </div>
 
