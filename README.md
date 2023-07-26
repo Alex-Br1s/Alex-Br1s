@@ -14,16 +14,17 @@
 <a href='https://www.linkedin.com/in/alexander-emanuel-bris-313655266/'>Linkedin</a>
 
 <div align='left'>
-  <h3>Languages and Tools:</h3>
+  <h3>Languages and Tools 🔨:</h3>
   <img src='https://www.svgrepo.com/show/452228/html-5.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/452185/css-3.svg' widht='40' height='40'/>
-  <img src='https://www.svgrepo.com/show/353925/javascript.svg' widht='40' height='40'/>
+  <img src='https://www.svgrepo.com/show/353925/javascript.svg' widht='30' height='30'/>
   <img src='https://www.svgrepo.com/show/452092/react.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/354274/redux.svg' widht='40' height='40'/>
-  <img src='https://www.svgrepo.com/show/353498/bootstrap.svg' widht='40' height='40'/>
+  <img src='https://www.svgrepo.com/show/353498/bootstrap.svg' widht='35' height='35'/>
   <img src='https://www.svgrepo.com/show/374146/typescript-official.svg' widht='40' height='40'/>
   <img src='https://www.svgrepo.com/show/452075/node-js.svg' widht='40' height='40'/>
   <img src='https://www.mementotech.in/assets/images/icons/express.png' widht='40' height='40'/>
+  <img src='https://www.svgrepo.com/show/452210/git.svg' widht='40' height='40'/>
   
 </div>
 
