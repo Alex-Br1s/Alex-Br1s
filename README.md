@@ -11,7 +11,7 @@
 ## ¿Cuáles son mis próximos objetivos? 🚀
 <p align='center'>Actualmente, estoy enfocado en mejorar y perfeccionar mis habilidades. Estoy buscando oportunidades para participar en proyectos interesantes que me permitan seguir creciendo profesionalmente y expandir mis conocimientos.</p>
 
-<a href='https://www.linkedin.com/in/alexander-emanuel-bris-313655266/'>Linkedin</a>
+<img src='https://www.svgrepo.com/show/355096/linkedin.svg' href='https://www.linkedin.com/in/alexander-emanuel-bris-313655266/'/>
 
 <div align='left'>
   <h3>Languages and Tools 🔨:</h3>
