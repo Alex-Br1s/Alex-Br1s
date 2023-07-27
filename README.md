@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id='header' align='center'>
-  <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='300' />
+  <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='600' />
   
 ## ¿Quién soy? 🧑‍💻
 <h2 align='center'>Soy Alex, un entusiasta del desarrollo web, apasionado por la creación de soluciones innovadoras y el aprendizaje constante.</h2>
