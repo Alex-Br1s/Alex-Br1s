@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id='header' align='center'>
   <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='900' height='300'/>
+ 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
   font=Fira+Code&pause=1000&color=BEF7B4&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   
