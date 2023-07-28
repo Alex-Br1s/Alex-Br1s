@@ -1,12 +1,13 @@
 ### Hi there 👋
 <div id='header' align='center'>
-  <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='900' height='300'/>
- 
   <h1 align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=620&size=30&pause=1000&color=9AF7A8&width=635&lines=Alexander-Bris+Full-Stack+Developers" alt="Typing SVG" />
   </a>
 </h1>
+  
+  <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='900' height='300'/>
+ 
   
 ## ¿Quién soy? 🧑‍💻
 <h2 align='center'>Soy Alexander, un entusiasta del desarrollo web, apasionado por la creación de soluciones innovadoras y el aprendizaje constante.</h2>
