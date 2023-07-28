@@ -1,8 +1,9 @@
 ### Hi there 👋
 <div id='header' align='center'>
+  
   <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=620&size=30&pause=1000&color=9AF7A8&width=635&lines=Alexander-Bris+Full-Stack+Developers" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=640&size=30&pause=1000&color=9AF7A8&width=635&lines=Alexander-Bris+Full-Stack+Developers" alt="Typing SVG" />
   </a>
 </h1>
   
