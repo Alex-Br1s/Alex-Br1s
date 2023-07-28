@@ -3,7 +3,7 @@
   
   <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9AF7A8&width=645&lines=Alexander-Bris+Full-Stack+Developers" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9AF7A8&width=650&lines=Alexander-Bris+Full-Stack+Developers" alt="Typing SVG" />
   </a>
 </h1>
   
