@@ -1,9 +1,11 @@
 ### Hi there 👋
 <div id='header' align='center'>
   <img src='https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=d849cd2f2qdxrb6qf6bqfnlz047uy44ssyf1sgfksg1sewt8&rid=giphy.gif&ct=g' width='900' height='300'/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
+  font=Fira+Code&pause=1000&color=BEF7B4&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   
 ## ¿Quién soy? 🧑‍💻
-<h2 align='center'>Soy Alex, un entusiasta del desarrollo web, apasionado por la creación de soluciones innovadoras y el aprendizaje constante.</h2>
+<h2 align='center'>Soy Alexander, un entusiasta del desarrollo web, apasionado por la creación de soluciones innovadoras y el aprendizaje constante.</h2>
 
 ## ¿Qué me apasiona? ❤️
 <p align='center'>Mi pasión radica en la programación y el desarrollo de aplicaciones. Me encanta enfrentar desafíos técnicos y encontrar soluciones creativas para problemas complejos. Además, me emociona colaborar en proyectos de código abierto para contribuir a la comunidad de desarrollo.</p>
