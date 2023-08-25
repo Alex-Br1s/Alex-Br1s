@@ -31,8 +31,7 @@
   <img src='https://www.svgrepo.com/show/353925/javascript.svg' widht='37' height='37' title='JavaScript' alt='JavaScript'/>
   <img src='https://www.svgrepo.com/show/452092/react.svg' widht='40' height='40' title='React' alt='React'/>
   <img src='https://www.svgrepo.com/show/354274/redux.svg' widht='40' height='40' title='Redux' alt='Redux'/>
-  <img src='https://www.svgrepo.com/show/353498/bootstrap.svg' widht='37' height='37' title='Bootstrap' alt='Bootstrap'/>
-  <img src='https://www.svgrepo.com/show/374146/typescript-official.svg' widht='40' height='40' title='TypeScript' alt='TypeScript'/>
+  <img src='https://www.svgrepo.com/show/374118/tailwind.svg' widht='37' height='37' title='Tailwind' alt='Tailwind'/>
   <img src='https://www.svgrepo.com/show/303360/nodejs-logo.svg' widht='40' height='40' title='Node' alt='Node'/>
   <img src='https://www.mementotech.in/assets/images/icons/express.png' widht='40' height='40' title='Express' alt='Express'/>
   <img src='https://www.svgrepo.com/show/354333/sequelize.svg' widht='40' height='40' title='Sequelize' alt='Sequelize'/>
